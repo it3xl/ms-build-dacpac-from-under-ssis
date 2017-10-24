@@ -1,1 +1,2 @@
-# ms-build-dacpac-from-under-ssis
+Build DacPack from under SSIS by MSBuild.
+Example project.
