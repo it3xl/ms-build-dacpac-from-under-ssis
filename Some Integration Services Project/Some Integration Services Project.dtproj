@@ -28,7 +28,7 @@
           </SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhXL2z5NV+UmskjJgCMJ4RwAAAAACAAAAAAADZgAAwAAAABAAAACRMNv/Zlj81qAY/QpbN+ePAAAAAASAAACgAAAAEAAAACsB4B51jUpsP3Xy7dHaBz2IAAAAXdT9EQ6N4Wt1yVz2GQoyXMBF8X1iEhTjwFYkDBRE7W4097Mh+iLH+HpckIDiVDlap9OUgscXvDp+iYyCRNmoCn1v9MmDf2h0T2pgMrInUTb4eM5f9OH87jdA+fvAdihGqlf/jLPZEn2tM3QWLkB56eld4RZbXLknTBa56+IkZoWXdH5hS6hEXxQAAADPaOqzUJ10j0y0Il72y3iar/3Ctg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAADX4IPVNqkyZCRNCqJFIxAAAAAACAAAAAAADZgAAwAAAABAAAADaVcf2+dNDnCEllvJeyYFWAAAAAASAAACgAAAAEAAAAFzCtGgFURDhT7A/gbI6y32IAAAA/bRgaV7GkAqnP347E2EeBe0GRGna614lUtaITT73LHQ79RN3lIlAL7wGvlqaWBiph9XHXw9iaUPwYM0NsxqUff2msZ6Xq3AhdHaAmw49JQFp9yQtg8YboTSE08en5+84ZcAGwEAJCAxhzA/y5U55bzh0LwFcaZEIWTLxqMuyoGFrPZ7YRxEeixQAAAACsCFNyiqKWleDSMRHGE5yepmsfg==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -44,10 +44,10 @@
                 <SSIS:Property SSIS:Name="Name">SomePackage</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">17</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">22</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{ED27D086-7A42-4D4D-94D6-F235A577F43D}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{9C0A5B40-251B-4817-8848-9E42F0265344}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
